@@ -1,1 +1,4 @@
-testpython
+#testpython
+
+Print("Hola Mundo")
+Print("ADios"()
